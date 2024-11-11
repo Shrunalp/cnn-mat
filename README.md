@@ -1,7 +1,7 @@
 # Dependence of microstructure classification accuracy on crystallographic data representation
 GitHub respository for those interested in training models with specific crystallographic data representations. 
 
-https://megl.science.gmu.edu/
+
 
 ## Abstract
 Convolutional neural networks are increasingly being used to analyze and classify material microstructures, motivated
