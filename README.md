@@ -6,8 +6,8 @@ GitHub respository for those interested in training models with specific crystal
 ## Abstract
 Convolutional neural networks are increasingly being used to analyze and classify material microstructures, motivated
 by the possibility that they will be able to identify relevant microstructural features more efficiently and impartially
-than human experts. While up to now convolutional neural networks have mostly been applied to light optimal mi-
-croscopy and scanning electron microscope micrographs, application to EBSD micrographs will be increasingly common
+than human experts. While up to now convolutional neural networks have mostly been applied to light optimal microscopy 
+and scanning electron microscope micrographs, application to EBSD micrographs will be increasingly common
 as rational design generates materials with unknown textures and phase compositions. This raises the question of how
 crystallographic orientation should be represented in such a convolutional neural network, and whether this choice has
 a significant effect on the network’s analysis and classification accuracy. Four representations of orientation information
